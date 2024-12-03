@@ -1,5 +1,5 @@
 click
-dlib @ https://github.com/shashankx86/dlib_compiled/raw/master/dlib-19.22.99-cp39-cp39-linux_x86_64.whl
+dlib @ https://github.com/sachadee/Dlib/blob/main/dlib-19.22.99-cp39-cp39-win_amd64.whl
 face-recognition
 face-recognition-models
 imutils
