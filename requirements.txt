@@ -1,5 +1,5 @@
 click
-dlib @ https://raw.githubusercontent.com/Sudhakar-Suresh/face-clustering-project/main/dlib-19.22.99-cp38-cp38-win_amd64.whl
+dlib @ https://github.com/shashankx86/dlib_compiled/raw/master/dlib-19.22.99-cp39-cp39-linux_x86_64.whl
 face-recognition
 face-recognition-models
 imutils
